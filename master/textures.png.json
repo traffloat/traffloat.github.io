@@ -123,10 +123,17 @@
    "height":16
   }
  },
- "battery":{
+ "liquid-bottle":{
   "shape":"icon",
   "x":0,
   "y":96,
+  "width":16,
+  "height":16
+ },
+ "battery":{
+  "shape":"icon",
+  "x":0,
+  "y":112,
   "width":16,
   "height":16
  }

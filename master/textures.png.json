@@ -41,79 +41,93 @@
  "solar-panel":{
   "shape":"cube",
   "xp":{
-   "x":16,
-   "y":0,
+   "x":0,
+   "y":16,
    "width":16,
    "height":16
   },
   "xn":{
-   "x":32,
-   "y":0,
+   "x":0,
+   "y":32,
    "width":16,
    "height":16
   },
   "yp":{
-   "x":48,
-   "y":0,
+   "x":0,
+   "y":48,
    "width":16,
    "height":16
   },
   "yn":{
-   "x":48,
-   "y":0,
+   "x":0,
+   "y":48,
    "width":16,
    "height":16
   },
   "zp":{
-   "x":48,
-   "y":0,
+   "x":0,
+   "y":48,
    "width":16,
    "height":16
   },
   "zn":{
-   "x":48,
-   "y":0,
+   "x":0,
+   "y":48,
    "width":16,
    "height":16
   }
  },
+ "gas-bottle":{
+  "shape":"icon",
+  "x":0,
+  "y":64,
+  "width":16,
+  "height":16
+ },
  "house":{
   "shape":"cube",
   "xp":{
-   "x":64,
-   "y":0,
+   "x":0,
+   "y":80,
    "width":16,
    "height":16
   },
   "xn":{
-   "x":64,
-   "y":0,
+   "x":0,
+   "y":80,
    "width":16,
    "height":16
   },
   "yp":{
-   "x":64,
-   "y":0,
+   "x":0,
+   "y":80,
    "width":16,
    "height":16
   },
   "yn":{
-   "x":64,
-   "y":0,
+   "x":0,
+   "y":80,
    "width":16,
    "height":16
   },
   "zp":{
-   "x":64,
-   "y":0,
+   "x":0,
+   "y":80,
    "width":16,
    "height":16
   },
   "zn":{
-   "x":64,
-   "y":0,
+   "x":0,
+   "y":80,
    "width":16,
    "height":16
   }
+ },
+ "battery":{
+  "shape":"icon",
+  "x":0,
+  "y":96,
+  "width":16,
+  "height":16
  }
 }

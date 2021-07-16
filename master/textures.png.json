@@ -1,44 +1,12 @@
 {
- "core":{
-  "shape":"cube",
-  "xp":{
-   "x":0,
-   "y":0,
-   "width":16,
-   "height":16
-  },
-  "xn":{
-   "x":0,
-   "y":0,
-   "width":16,
-   "height":16
-  },
-  "yp":{
-   "x":0,
-   "y":0,
-   "width":16,
-   "height":16
-  },
-  "yn":{
-   "x":0,
-   "y":0,
-   "width":16,
-   "height":16
-  },
-  "zp":{
-   "x":0,
-   "y":0,
-   "width":16,
-   "height":16
-  },
-  "zn":{
-   "x":0,
-   "y":0,
-   "width":16,
-   "height":16
-  }
+ "dummy-liquid-bottle":{
+  "shape":"icon",
+  "x":0,
+  "y":0,
+  "width":16,
+  "height":16
  },
- "solar-panel":{
+ "core":{
   "shape":"cube",
   "xp":{
    "x":0,
@@ -48,41 +16,73 @@
   },
   "xn":{
    "x":0,
-   "y":32,
+   "y":16,
    "width":16,
    "height":16
   },
   "yp":{
    "x":0,
-   "y":48,
+   "y":16,
    "width":16,
    "height":16
   },
   "yn":{
    "x":0,
-   "y":48,
+   "y":16,
    "width":16,
    "height":16
   },
   "zp":{
    "x":0,
-   "y":48,
+   "y":16,
    "width":16,
    "height":16
   },
   "zn":{
    "x":0,
-   "y":48,
+   "y":16,
    "width":16,
    "height":16
   }
  },
- "gas-bottle":{
-  "shape":"icon",
-  "x":0,
-  "y":64,
-  "width":16,
-  "height":16
+ "solar-panel":{
+  "shape":"cube",
+  "xp":{
+   "x":0,
+   "y":32,
+   "width":16,
+   "height":16
+  },
+  "xn":{
+   "x":0,
+   "y":48,
+   "width":16,
+   "height":16
+  },
+  "yp":{
+   "x":0,
+   "y":64,
+   "width":16,
+   "height":16
+  },
+  "yn":{
+   "x":0,
+   "y":64,
+   "width":16,
+   "height":16
+  },
+  "zp":{
+   "x":0,
+   "y":64,
+   "width":16,
+   "height":16
+  },
+  "zn":{
+   "x":0,
+   "y":64,
+   "width":16,
+   "height":16
+  }
  },
  "house":{
   "shape":"cube",
@@ -123,21 +123,21 @@
    "height":16
   }
  },
- "liquid-bottle":{
+ "dummy":{
   "shape":"icon",
   "x":0,
   "y":96,
   "width":16,
   "height":16
  },
- "dummy":{
+ "battery":{
   "shape":"icon",
   "x":0,
   "y":112,
   "width":16,
   "height":16
  },
- "battery":{
+ "dummy-gas-bottle":{
   "shape":"icon",
   "x":0,
   "y":128,

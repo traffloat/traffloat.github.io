@@ -108,7 +108,7 @@
  "freighter":{
   "shape":"icon",
   "x":0,
-  "y":0,
+  "y":256,
   "width":256,
   "height":256
  },
@@ -192,7 +192,7 @@
  },
  "bus":{
   "shape":"icon",
-  "x":0,
+  "x":256,
   "y":0,
   "width":256,
   "height":256
@@ -265,38 +265,20 @@
   "height":256
  },
  "house":{
-  "shape":"cube",
-  "xp":{
+  "shape":"cylinder",
+  "curved":{
    "x":0,
    "y":0,
    "width":256,
    "height":256
   },
-  "xn":{
+  "top":{
    "x":0,
    "y":0,
    "width":256,
    "height":256
   },
-  "yp":{
-   "x":0,
-   "y":0,
-   "width":256,
-   "height":256
-  },
-  "yn":{
-   "x":0,
-   "y":0,
-   "width":256,
-   "height":256
-  },
-  "zp":{
-   "x":0,
-   "y":0,
-   "width":256,
-   "height":256
-  },
-  "zn":{
+  "bottom":{
    "x":0,
    "y":0,
    "width":256,

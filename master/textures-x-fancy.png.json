@@ -204,6 +204,27 @@
   "width":1024,
   "height":1024
  },
+ "stadium":{
+  "shape":"cylinder",
+  "curved":{
+   "x":0,
+   "y":0,
+   "width":1024,
+   "height":1024
+  },
+  "top":{
+   "x":0,
+   "y":0,
+   "width":1024,
+   "height":1024
+  },
+  "bottom":{
+   "x":0,
+   "y":0,
+   "width":1024,
+   "height":1024
+  }
+ },
  "vault":{
   "shape":"cube",
   "xp":{

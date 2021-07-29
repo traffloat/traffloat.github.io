@@ -1,26 +1,26 @@
 {
- "rock":{
+ "urine-liquid-bottle":{
   "shape":"icon",
   "x":0,
   "y":0,
   "width":256,
   "height":256
  },
- "oxygen":{
+ "nitrogen-gas-bottle":{
   "shape":"icon",
   "x":0,
   "y":0,
   "width":256,
   "height":256
  },
- "pepples":{
+ "nitrogen":{
   "shape":"icon",
   "x":0,
   "y":0,
   "width":256,
   "height":256
  },
- "core":{
+ "filtration-plant":{
   "shape":"cube",
   "xp":{
    "x":0,
@@ -59,7 +59,81 @@
    "height":256
   }
  },
- "dna":{
+ "raptor":{
+  "shape":"icon",
+  "x":0,
+  "y":0,
+  "width":256,
+  "height":256
+ },
+ "carbon-dioxide-gas-bottle":{
+  "shape":"icon",
+  "x":0,
+  "y":0,
+  "width":256,
+  "height":256
+ },
+ "sediment":{
+  "shape":"icon",
+  "x":0,
+  "y":0,
+  "width":256,
+  "height":256
+ },
+ "oxygen":{
+  "shape":"icon",
+  "x":0,
+  "y":0,
+  "width":256,
+  "height":256
+ },
+ "terminal":{
+  "shape":"cube",
+  "xp":{
+   "x":0,
+   "y":0,
+   "width":256,
+   "height":256
+  },
+  "xn":{
+   "x":0,
+   "y":0,
+   "width":256,
+   "height":256
+  },
+  "yp":{
+   "x":0,
+   "y":0,
+   "width":256,
+   "height":256
+  },
+  "yn":{
+   "x":0,
+   "y":0,
+   "width":256,
+   "height":256
+  },
+  "zp":{
+   "x":0,
+   "y":0,
+   "width":256,
+   "height":256
+  },
+  "zn":{
+   "x":0,
+   "y":0,
+   "width":256,
+   "height":256
+  }
+ },
+ "aluminium":{
+  "shape":"icon",
+  "x":0,
+  "y":0,
+  "width":256,
+  "height":256
+ },
+ "asteroidal-water":{
   "shape":"icon",
   "x":0,
   "y":0,
@@ -105,6 +179,13 @@
    "height":256
   }
  },
+ "oxygen-gas-bottle":{
+  "shape":"icon",
+  "x":0,
+  "y":0,
+  "width":256,
+  "height":256
+ },
  "freighter":{
   "shape":"icon",
   "x":0,
@@ -112,7 +193,42 @@
   "width":256,
   "height":256
  },
- "customs":{
+ "urine":{
+  "shape":"icon",
+  "x":0,
+  "y":0,
+  "width":256,
+  "height":256
+ },
+ "pepples":{
+  "shape":"icon",
+  "x":0,
+  "y":0,
+  "width":256,
+  "height":256
+ },
+ "house":{
+  "shape":"cylinder",
+  "curved":{
+   "x":0,
+   "y":0,
+   "width":256,
+   "height":256
+  },
+  "top":{
+   "x":0,
+   "y":0,
+   "width":256,
+   "height":256
+  },
+  "bottom":{
+   "x":0,
+   "y":0,
+   "width":256,
+   "height":256
+  }
+ },
+ "driving-school":{
   "shape":"cube",
   "xp":{
    "x":0,
@@ -151,7 +267,7 @@
    "height":256
   }
  },
- "filtration-plant":{
+ "core":{
   "shape":"cube",
   "xp":{
    "x":0,
@@ -189,6 +305,13 @@
    "width":256,
    "height":256
   }
+ },
+ "deionized-water":{
+  "shape":"icon",
+  "x":0,
+  "y":0,
+  "width":256,
+  "height":256
  },
  "bus":{
   "shape":"icon",
@@ -197,7 +320,35 @@
   "width":256,
   "height":256
  },
- "deionized-water":{
+ "filtered-water-liquid-bottle":{
+  "shape":"icon",
+  "x":0,
+  "y":0,
+  "width":256,
+  "height":256
+ },
+ "carbon-dioxide":{
+  "shape":"icon",
+  "x":0,
+  "y":0,
+  "width":256,
+  "height":256
+ },
+ "dna":{
+  "shape":"icon",
+  "x":0,
+  "y":0,
+  "width":256,
+  "height":256
+ },
+ "amino-acid":{
+  "shape":"icon",
+  "x":0,
+  "y":0,
+  "width":256,
+  "height":256
+ },
+ "coolant":{
   "shape":"icon",
   "x":0,
   "y":0,
@@ -264,76 +415,6 @@
    "height":256
   }
  },
- "raptor":{
-  "shape":"icon",
-  "x":0,
-  "y":0,
-  "width":256,
-  "height":256
- },
- "nitrogen-gas-bottle":{
-  "shape":"icon",
-  "x":0,
-  "y":0,
-  "width":256,
-  "height":256
- },
- "filtered-water-liquid-bottle":{
-  "shape":"icon",
-  "x":0,
-  "y":0,
-  "width":256,
-  "height":256
- },
- "house":{
-  "shape":"cylinder",
-  "curved":{
-   "x":0,
-   "y":0,
-   "width":256,
-   "height":256
-  },
-  "top":{
-   "x":0,
-   "y":0,
-   "width":256,
-   "height":256
-  },
-  "bottom":{
-   "x":0,
-   "y":0,
-   "width":256,
-   "height":256
-  }
- },
- "oxygen-gas-bottle":{
-  "shape":"icon",
-  "x":0,
-  "y":0,
-  "width":256,
-  "height":256
- },
- "coolant":{
-  "shape":"icon",
-  "x":0,
-  "y":0,
-  "width":256,
-  "height":256
- },
- "carbon-dioxide":{
-  "shape":"icon",
-  "x":0,
-  "y":0,
-  "width":256,
-  "height":256
- },
- "nitrogen":{
-  "shape":"icon",
-  "x":0,
-  "y":0,
-  "width":256,
-  "height":256
- },
  "asteroidal-water-liquid-bottle":{
   "shape":"icon",
   "x":0,
@@ -347,94 +428,6 @@
   "y":0,
   "width":256,
   "height":256
- },
- "carbon-dioxide-gas-bottle":{
-  "shape":"icon",
-  "x":0,
-  "y":0,
-  "width":256,
-  "height":256
- },
- "amino-acid":{
-  "shape":"icon",
-  "x":0,
-  "y":0,
-  "width":256,
-  "height":256
- },
- "aluminium":{
-  "shape":"icon",
-  "x":0,
-  "y":0,
-  "width":256,
-  "height":256
- },
- "urine-liquid-bottle":{
-  "shape":"icon",
-  "x":0,
-  "y":0,
-  "width":256,
-  "height":256
- },
- "urine":{
-  "shape":"icon",
-  "x":0,
-  "y":0,
-  "width":256,
-  "height":256
- },
- "sediment":{
-  "shape":"icon",
-  "x":0,
-  "y":0,
-  "width":256,
-  "height":256
- },
- "deionized-water-liquid-bottle":{
-  "shape":"icon",
-  "x":0,
-  "y":0,
-  "width":256,
-  "height":256
- },
- "driving-school":{
-  "shape":"cube",
-  "xp":{
-   "x":0,
-   "y":0,
-   "width":256,
-   "height":256
-  },
-  "xn":{
-   "x":0,
-   "y":0,
-   "width":256,
-   "height":256
-  },
-  "yp":{
-   "x":0,
-   "y":0,
-   "width":256,
-   "height":256
-  },
-  "yn":{
-   "x":0,
-   "y":0,
-   "width":256,
-   "height":256
-  },
-  "zp":{
-   "x":0,
-   "y":0,
-   "width":256,
-   "height":256
-  },
-  "zn":{
-   "x":0,
-   "y":0,
-   "width":256,
-   "height":256
-  }
  },
  "prison":{
   "shape":"cube",
@@ -475,7 +468,14 @@
    "height":256
   }
  },
- "asteroidal-water":{
+ "deionized-water-liquid-bottle":{
+  "shape":"icon",
+  "x":0,
+  "y":0,
+  "width":256,
+  "height":256
+ },
+ "rock":{
   "shape":"icon",
   "x":0,
   "y":0,
@@ -489,14 +489,7 @@
   "width":256,
   "height":256
  },
- "coolant-liquid-bottle":{
-  "shape":"icon",
-  "x":0,
-  "y":0,
-  "width":256,
-  "height":256
- },
- "terminal":{
+ "customs":{
   "shape":"cube",
   "xp":{
    "x":0,
@@ -534,5 +527,12 @@
    "width":256,
    "height":256
   }
+ },
+ "coolant-liquid-bottle":{
+  "shape":"icon",
+  "x":0,
+  "y":0,
+  "width":256,
+  "height":256
  }
 }

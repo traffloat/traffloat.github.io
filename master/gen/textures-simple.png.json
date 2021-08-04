@@ -1,6 +1,6 @@
 {
- "width":128,
- "height":128,
+ "width":256,
+ "height":256,
  "items":{
   "urine-liquid-bottle":{
    "shape":"icon",
@@ -27,37 +27,37 @@
    "shape":"cube",
    "xp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "xn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "yp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "yn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "zp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "zn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    }
@@ -94,37 +94,37 @@
    "shape":"cube",
    "xp":{
     "x":0,
-    "y":0,
+    "y":128,
     "width":64,
     "height":64
    },
    "xn":{
     "x":0,
-    "y":0,
+    "y":128,
     "width":64,
     "height":64
    },
    "yp":{
     "x":0,
-    "y":0,
+    "y":128,
     "width":64,
     "height":64
    },
    "yn":{
     "x":0,
-    "y":0,
+    "y":128,
     "width":64,
     "height":64
    },
    "zp":{
     "x":0,
-    "y":0,
+    "y":128,
     "width":64,
     "height":64
    },
    "zn":{
     "x":0,
-    "y":0,
+    "y":128,
     "width":64,
     "height":64
    }
@@ -147,37 +147,37 @@
    "shape":"cube",
    "xp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "xn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "yp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "yn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "zp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "zn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    }
@@ -192,7 +192,7 @@
   "freighter":{
    "shape":"icon",
    "x":0,
-   "y":64,
+   "y":192,
    "width":64,
    "height":64
   },
@@ -214,19 +214,19 @@
    "shape":"cylinder",
    "curved":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "top":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "bottom":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    }
@@ -235,37 +235,37 @@
    "shape":"cube",
    "xp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "xn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "yp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "yn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "zp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "zn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    }
@@ -274,44 +274,44 @@
    "shape":"cube",
    "xp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "xn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "yp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "yn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "zp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "zn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    }
   },
   "deionized-water":{
    "shape":"icon",
-   "x":0,
+   "x":64,
    "y":0,
    "width":64,
    "height":64
@@ -319,7 +319,7 @@
   "bus":{
    "shape":"icon",
    "x":64,
-   "y":0,
+   "y":64,
    "width":64,
    "height":64
   },
@@ -362,19 +362,19 @@
    "shape":"cylinder",
    "curved":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "top":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "bottom":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    }
@@ -383,37 +383,37 @@
    "shape":"cube",
    "xp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "xn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "yp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "yn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "zp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "zn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    }
@@ -427,8 +427,8 @@
   },
   "filtered-water":{
    "shape":"icon",
-   "x":0,
-   "y":0,
+   "x":64,
+   "y":128,
    "width":64,
    "height":64
   },
@@ -436,37 +436,37 @@
    "shape":"cube",
    "xp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "xn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "yp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "yn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "zp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "zn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    }
@@ -496,37 +496,37 @@
    "shape":"cube",
    "xp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "xn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "yp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "yn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "zp":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    },
    "zn":{
     "x":0,
-    "y":0,
+    "y":64,
     "width":64,
     "height":64
    }

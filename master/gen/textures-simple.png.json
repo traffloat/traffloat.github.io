@@ -358,6 +358,13 @@
    "width":64,
    "height":64
   },
+  "contaminated-liquid":{
+   "shape":"icon",
+   "x":64,
+   "y":0,
+   "width":64,
+   "height":64
+  },
   "stadium":{
    "shape":"cylinder",
    "curved":{
